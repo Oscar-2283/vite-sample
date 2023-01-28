@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<oscar-2283>/<oscar-2283>.github.io.git main
 
 # if you are deploying to https://<oscar-2283>.github.io/
-git push -f https://github.com/Oscar-2283/vite-sample.git master:gh-pages
+git push -f https://github.com/Oscar-2283/vite-sample.git main:gh-pages
 
 cd -   
